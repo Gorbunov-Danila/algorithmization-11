@@ -1,0 +1,4 @@
+﻿  fib.cpp
+C:\Users\Admin\algorithmization-11\prog\list\fib.cpp(7,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\algorithmization-11\prog\list\fib.cpp(54,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  fib.vcxproj -> C:\Users\Admin\algorithmization-11\prog\list\x64\Debug\fib.exe

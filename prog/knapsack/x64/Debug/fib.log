@@ -1,0 +1,3 @@
+﻿  fib.cpp
+C:\Users\Admin\algorithmization-11\prog\knapsack\fib.cpp(31,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  fib.vcxproj -> C:\Users\Admin\algorithmization-11\prog\knapsack\x64\Debug\fib.exe
